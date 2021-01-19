@@ -1,6 +1,6 @@
 {
     "name": "management",
-    "version": "1.0.0",
+    "version": "1.22.10",
     "scripts": {
     "client": "cd client && yarn start",
     "server": "nodemon server.js",
